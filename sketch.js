@@ -1,3 +1,4 @@
+//making drops using array and for function
 var drop = [100];
 
 function setup() {

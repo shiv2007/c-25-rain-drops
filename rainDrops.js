@@ -1,3 +1,4 @@
+//creating a raindrop class
 class rainDrops{
   constructor(){
     this.x = random(width);
