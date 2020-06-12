@@ -9,7 +9,7 @@ class rainDrops{
     this.y = this.y+this.yspeed;
   }
   display(){
-    fill(255);
+    fill(245);
     ellipse(this.x,this.y,6,6);
     if(this.y>height){
       this.y = -10;
